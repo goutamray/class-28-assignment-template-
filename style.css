@@ -1,0 +1,42 @@
+.logo {
+	width: 70px;
+}
+nav .navbar{
+	background: #fff !important;
+}
+/***** banner css *****/
+.banner{
+	background:#f9f9ff ;
+}
+.banner-button {
+	background:#8490ff ;
+}
+.banner-content {
+	height: 90vh;
+}
+/***** pricing item  *****/
+.pricing-item{
+	background:#8490ff ;
+}
+
+/***** p-table  *****/
+.pricing-table{
+	background:#f9f9ff ;
+}
+.goutam{
+	height: 80px;
+	width: 80px;
+	background: #f9f9ff;
+	line-height: 70px;
+}
+/* member-section  */
+.card img {
+	width: 80px;
+	position: relative;
+	top: -30px;
+}
+.contact-section{
+
+background:#f9f9ff ;
+}
+
